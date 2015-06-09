@@ -1,0 +1,7 @@
+C:\Users\Easy\Documents\Visual Studio 2010\Projects\NeptuniaReBirth1Items\NeptuniaReBirth1Items\bin\Debug\NeptuniaReBirth1Items.exe
+C:\Users\Easy\Documents\Visual Studio 2010\Projects\NeptuniaReBirth1Items\NeptuniaReBirth1Items\bin\Debug\NeptuniaReBirth1Items.pdb
+C:\Users\Easy\Documents\Visual Studio 2010\Projects\NeptuniaReBirth1Items\NeptuniaReBirth1Items\obj\x86\Debug\NeptuniaReBirth1Items.Form1.resources
+C:\Users\Easy\Documents\Visual Studio 2010\Projects\NeptuniaReBirth1Items\NeptuniaReBirth1Items\obj\x86\Debug\NeptuniaReBirth1Items.Properties.Resources.resources
+C:\Users\Easy\Documents\Visual Studio 2010\Projects\NeptuniaReBirth1Items\NeptuniaReBirth1Items\obj\x86\Debug\NeptuniaReBirth1Items.csproj.GenerateResource.Cache
+C:\Users\Easy\Documents\Visual Studio 2010\Projects\NeptuniaReBirth1Items\NeptuniaReBirth1Items\obj\x86\Debug\NeptuniaReBirth1Items.exe
+C:\Users\Easy\Documents\Visual Studio 2010\Projects\NeptuniaReBirth1Items\NeptuniaReBirth1Items\obj\x86\Debug\NeptuniaReBirth1Items.pdb
